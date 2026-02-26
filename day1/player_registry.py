@@ -3,6 +3,7 @@ surname = input("Enter the surname of the player:")
 age = int(input("Enter the age of the player:"))
 team = input("Enter the team of the player:")
 
+
 informations = [name,surname,age,team]
 
 print("Player information:\nName:{}\nSurname:{}\nAge:{}\nTeam:{}"
